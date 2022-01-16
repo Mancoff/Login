@@ -1,2 +1,2 @@
-# Login
-login en python 
+# Registrar 
+registrar a una base de datos desde python
